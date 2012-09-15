@@ -16,7 +16,7 @@
 /tmp
 /log
 
-
+.project
 *.rbc
 *.sassc
 .sass-cache
